@@ -2178,11 +2178,11 @@ msgstr "Zablokuj dostęp dla użytkownika root"
 
 #: plugin/plugin.py:135
 msgid "Without auth only local access is allowed!"
-msgstr ""
+msgstr "Bez autoryzacji dostęp tylko z sieci lokalnej!"
 
 #: plugin/plugin.py:136
 msgid "Enable access from VPNs"
-msgstr ""
+msgstr "Włącz dostęp z sieci VPN"
 
 #: plugin/plugin.py:137
 msgid "Enable Parental Control"
