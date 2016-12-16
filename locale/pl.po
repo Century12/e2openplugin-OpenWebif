@@ -2178,7 +2178,7 @@ msgstr "Zablokuj dostęp dla użytkownika root"
 
 #: plugin/plugin.py:135
 msgid "Without auth only local access is allowed!"
-msgstr ""
+msgstr "Bez włączonej autoryzacji dostęp tylko z sieci lokalnej!"
 
 #: plugin/plugin.py:136
 msgid "Enable access from VPNs"
